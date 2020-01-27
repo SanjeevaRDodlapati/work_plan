@@ -4,5 +4,8 @@
   1. Watched RNA splicing lectures of Molecular Biology: Part 3 on edX.
   2. Read `Predicting Splicing from Primary Sequence with Deep Learning' and saved references. 
   3. Created profiles for Google Shcholar, twitter, ORCID, and Slideshare.
-  4. Practiced Bootstrap 4 on w3scholls.com
+  4. Practiced Bootstrap 4 on w3schools.com
 
+
+### Jan 27, 2020
+  1. 
