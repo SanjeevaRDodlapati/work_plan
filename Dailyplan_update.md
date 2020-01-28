@@ -10,3 +10,4 @@
 ### Jan 27, 2020
   1. Read `How to read a paper' by Keshav
   2. Did first pass reading of 5 papers. 
+  3. Built [Academic Webpage](https://www.cs.odu.edu/~sdodlapa/)
