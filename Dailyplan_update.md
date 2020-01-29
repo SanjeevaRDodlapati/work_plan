@@ -14,4 +14,8 @@
 ### Jan 28, 2020
   1. Completed and submitted Hw2 for CS800: Research Methods
   2. Wrote code for cpg_neighbor_dist&hist Jupyter Notebook. 
-  3. 
+  3. Prepared email to send GPD.
+  4. Written argparse code for cpgTrain_pytorch.py
+  
+### Jan 29. 2020
+  1. 
