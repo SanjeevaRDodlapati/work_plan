@@ -11,3 +11,6 @@
   1. Read `How to read a paper' by Keshav
   2. Did first pass reading of 5 papers. 
   3. Built [Academic Webpage](https://www.cs.odu.edu/~sdodlapa/)
+### Jan 28, 2020
+  1. Comleted and submitted Hw2 for CS800: Research Methods
+  2. 
