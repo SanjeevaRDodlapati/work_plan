@@ -12,5 +12,6 @@
   2. Did first pass reading of 5 papers. 
   3. Built [Academic Webpage](https://www.cs.odu.edu/~sdodlapa/)
 ### Jan 28, 2020
-  1. Comleted and submitted Hw2 for CS800: Research Methods
-  2. 
+  1. Completed and submitted Hw2 for CS800: Research Methods
+  2. Wrote code for cpg_neighbor_dist&hist Jupyter Notebook. 
+  3. 
