@@ -23,5 +23,5 @@
   3. Glanced over [Machine Unlearning paper](https://arxiv.org/abs/1912.03817)
   4. Glanced over [Machine learning workflows to estimate class probabilities for precision cancer diagnostics on DNA methylation microarray data](https://www.nature.com/articles/s41596-019-0251-6?WT.mc_id=TWT_NatureProtocols#Abs1)
   5. Glanced over [DNA methylation-based classification of central nervous system tumours](https://www.nature.com/articles/nature26000#Abs1)
-  6. Read [Software searches out reproducibility issues in scientific papers](https://www.natureindex.com/news-blog/software-searches-out-reproducibility-issues-in-scientific-papers)
+  6. Read an article [Software searches out reproducibility issues in scientific papers](https://www.natureindex.com/news-blog/software-searches-out-reproducibility-issues-in-scientific-papers)
   7. 
