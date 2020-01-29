@@ -18,4 +18,6 @@
   4. Written argparse code for cpgTrain_pytorch.py
   
 ### Jan 29. 2020
-  1. 
+  1. Read an article on [manage multiple research projects](https://www.natureindex.com/news-blog/simple-tool-can-help-manage-multiple-research-science-projects)
+  2. Read an article on [Pairing with an influential co-author gives young researchers a career-long boost](https://www.natureindex.com/news-blog/high-profile-co-author-gives-young-researchers-scientists-career-long-advantage)
+  
