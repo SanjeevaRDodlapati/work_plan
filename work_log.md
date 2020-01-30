@@ -5,7 +5,7 @@
   2. Created a separate file deepcpg_DNA_Train_pytorch.py
   
   + *run deepcpg DNA module for D7_CTB_S3 and compare loss with deepcpg_DNA_Train_pytorch.py*
-  + *modify cpgTrain_pytorch.py to run multipul cell data
-  + *write code for learning curves
-  + *write code for KNN for predictions
-  + *push code to github
+  + *modify cpgTrain_pytorch.py to run multipul cell data*
+  + *write code for learning curves*
+  + *write code for KNN for predictions*
+  + *push code to github*
