@@ -27,3 +27,6 @@
   
 ### Jan30, 2020
   1. Glanced over [Hidden Markove Modedl Notebook](https://colab.research.google.com/drive/1IUe9lfoIiQsL49atSOgxnCmMR_zJazKI#scrollTo=_rWFkdjYOlk8)
+  2. Glanced over [Meta-Learning with Implicit Gradients](https://papers.nips.cc/paper/8306-meta-learning-with-implicit-gradients.pdf)
+  3. First-pass read [Learn, Imgine, and Create](https://papers.nips.cc/paper/8375-learn-imagine-and-create-text-to-image-generation-from-prior-knowledge.pdf)
+  4. First-pass read [Efficient Meta Learning via Minibatch Proximal Update](https://papers.nips.cc/paper/8432-efficient-meta-learning-via-minibatch-proximal-update.pdf)
