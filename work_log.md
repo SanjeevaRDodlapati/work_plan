@@ -10,4 +10,5 @@
   + *save model on val loss*
   + *write code for learning curves*
   + *write code for KNN for predictions*
+  + *write code for label weights*
   + *push code to github*
