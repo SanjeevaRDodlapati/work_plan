@@ -7,6 +7,7 @@
   #### To Do:
   + *run deepcpg DNA module for D7_CTB_S3 and compare loss with deepcpg_DNA_Train_pytorch.py*
   + *modify cpgTrain_pytorch.py to run multipul cell data*
+  + *save model on val loss*
   + *write code for learning curves*
   + *write code for KNN for predictions*
   + *push code to github*
