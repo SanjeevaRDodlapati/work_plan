@@ -30,3 +30,5 @@
   2. Glanced over [Meta-Learning with Implicit Gradients](https://papers.nips.cc/paper/8306-meta-learning-with-implicit-gradients.pdf)
   3. First-pass read [Learn, Imgine, and Create](https://papers.nips.cc/paper/8375-learn-imagine-and-create-text-to-image-generation-from-prior-knowledge.pdf)
   4. First-pass read [Efficient Meta Learning via Minibatch Proximal Update](https://papers.nips.cc/paper/8432-efficient-meta-learning-via-minibatch-proximal-update.pdf)
+  5. First-pass read[ATAC-Me Captures Prolonged DNA Methylation of
+Dynamic Chromatin Accessibility Loci during Cell Fate Transitions](https://www.cell.com/molecular-cell/fulltext/S1097-2765(20)30004-6?rss=yes&utm_source=dlvr.it&utm_medium=twitter)
