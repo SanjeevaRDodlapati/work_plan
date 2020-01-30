@@ -24,4 +24,6 @@
   4. Glanced over [Machine learning workflows to estimate class probabilities for precision cancer diagnostics on DNA methylation microarray data](https://www.nature.com/articles/s41596-019-0251-6?WT.mc_id=TWT_NatureProtocols#Abs1)
   5. Glanced over [DNA methylation-based classification of central nervous system tumours](https://www.nature.com/articles/nature26000#Abs1)
   6. Read an article [Software searches out reproducibility issues in scientific papers](https://www.natureindex.com/news-blog/software-searches-out-reproducibility-issues-in-scientific-papers)
-  7. 
+  
+### Jan30, 2020
+  1. Glanced over [Hidden Markove Modedl Notebook](https://colab.research.google.com/drive/1IUe9lfoIiQsL49atSOgxnCmMR_zJazKI#scrollTo=_rWFkdjYOlk8)
