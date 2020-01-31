@@ -12,3 +12,12 @@
   + *write code for KNN for predictions*
   + *write code for label weights*
   + *push code to github*
+
+  ##### statue update:
+  + ~~run deepcpg DNA module for D7_CTB_S3 and compare loss with deepcpg_DNA_Train_pytorch.py*~~ : Done
+  + *modify cpgTrain_pytorch.py to run multipul cell data*
+  + ~~save model on val loss*~~ : Done
+  + *write code for learning curves*
+  + *write code for KNN for predictions*
+  + *write code for label weights*
+  + ~~push code to github*~~: Could not be done
