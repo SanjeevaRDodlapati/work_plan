@@ -1,4 +1,4 @@
-# Group Meeting Updates
+# Group Meeting Updates: Every Friday
 ## Jan 24, 2020
   ### To Do:
   _**Task 1**_: Plot histogram of cpg distribution(# of bps between successive cpg sites)
@@ -21,3 +21,13 @@
   _**Task 4**_: Pending
   
   _**Task 4**_: Pending. Authetication error!
+
+
+
+## Jan 31, 2020
+  ### To Do:
+  _**Task 1**_: 
+  
+  _**Task 2**_:
+  
+  _**Task 3**_: 
