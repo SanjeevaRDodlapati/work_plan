@@ -12,7 +12,7 @@
    _**Task 5**_: Push the code to ODU-CSM github
   
  ### Status at the end of the week:
-  _**Task 1**_: Done - `cpg_neighbor_dist&hist.pdf'
+  _**Task 1**_: Done - "cpg_neighbor_dist&hist.pdf"
   
   _**Task 2**_: Done 
   
