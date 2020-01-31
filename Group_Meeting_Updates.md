@@ -10,7 +10,10 @@
   _**Task 4**_: write code for KNN voting for predictions
   
  ### Status at the end of the week:
-   1. Plot histogram of cpg distribution(# of bps between successive cpg sites): Done 
-  2. Draw learning curves
-  3. Implement deepcpg_DNA module with my code
-  4. write code for KNN voting for predictions
+  _**Task 1**_: Done 
+  
+  _**Task 2**_: Done 
+  
+  _**Task 3**_: Done
+  
+  _**Task 4**_: Pending
