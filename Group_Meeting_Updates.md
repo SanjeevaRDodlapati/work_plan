@@ -12,9 +12,9 @@
    _**Task 5**_: Push the code to ODU-CSM github
   
  ### Status at the end of the week:
-  _**Task 1**_: Done - "Research/DeepCpG/Data_Stats/cpg_neighbor_dist&hist.pdf"
+  _**Task 1**_: Done - "Research/CpG_Prediction/Data_Stats/cpg_neighbor_dist&hist.pdf"
   
-  _**Task 2**_: Done - "Research/DeepCpG/outputs/results/learning_curve_plot.pdf"
+  _**Task 2**_: Done - "Research/CpG_Prediction/outputs/results/learning_curve_plot.pdf"
   
   _**Task 3**_: Done - "/scratch/sdodl001/deepcpg/data/wgbs_human/D5_CTB/scripts/err_log/eval_19758.out" (D5_CTB_S2)
   
