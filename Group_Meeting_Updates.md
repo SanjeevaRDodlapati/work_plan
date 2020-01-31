@@ -7,7 +7,9 @@
   
   _**Task 3**_: Implement deepcpg_DNA module with my code
   
-  _**Task 4**_: write code for KNN voting for predictions
+  _**Task 4**_: Write code for KNN voting for predictions
+  
+   _**Task 5**_: Push the code to ODU-CSM github
   
  ### Status at the end of the week:
   _**Task 1**_: Done 
@@ -17,3 +19,5 @@
   _**Task 3**_: Done
   
   _**Task 4**_: Pending
+  
+  _**Task 4**_: Pending. Authetication error!
