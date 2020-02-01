@@ -21,3 +21,6 @@
   + *write code for KNN for predictions*
   + *write code for label weights*
   + ~~push code to github*~~: Could not be done
+### Jan 31, 2020
++ Written code for learning curves 
++ Group Meeting
