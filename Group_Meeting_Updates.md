@@ -26,8 +26,8 @@
 
 ## Jan 31, 2020
   ### To Do:
-  _**Task 1**_: 
+  _**Task 1**_: Reduce number of features of CpG.Net to approximately 4000.
   
-  _**Task 2**_:
+  _**Task 2**_: Make my code run with deepcpg_DNA module.
   
   _**Task 3**_: 
