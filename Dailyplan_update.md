@@ -32,3 +32,9 @@
   4. First-pass read [Efficient Meta Learning via Minibatch Proximal Update](https://papers.nips.cc/paper/8432-efficient-meta-learning-via-minibatch-proximal-update.pdf)
   5. First-pass read[ATAC-Me Captures Prolonged DNA Methylation of
 Dynamic Chromatin Accessibility Loci during Cell Fate Transitions](https://www.cell.com/molecular-cell/fulltext/S1097-2765(20)30004-6?rss=yes&utm_source=dlvr.it&utm_medium=twitter)
+
+# Daily plan for the month of Feb 2020 
+
+### Feb 1, 2020
+  1. Second pass reading [Assessing the impact of generative AI on medicinal chemistry](https://www.nature.com/articles/s41587-020-0418-2)
+  2. Second pass reading [Can we accelerate medicinal chemistry by augmenting the chemist with Big Data and artificial intelligence?](https://www.sciencedirect.com/science/article/pii/S1359644617305780?via%3Dihub)
