@@ -45,3 +45,10 @@ Dynamic Chromatin Accessibility Loci during Cell Fate Transitions](https://www.c
   1. Second pass read [Generating Focused Molecule Libraries for Drug Discovery with
 Recurrent Neural Networks](https://pubs.acs.org/doi/full/10.1021/acscentsci.7b00512)
   2. First pass read [DeeplyTough: Learning Structural Comparison of Protein Binding Sites](https://www.biorxiv.org/content/10.1101/600304v1.full.pdf)
+  3. First pass read [Population-based De Novo Molecule Generation, Using Grammatical Evolution](https://www.journal.csj.jp/doi/pdf/10.1246/cl.180665)
+
+
+
+
+
+
