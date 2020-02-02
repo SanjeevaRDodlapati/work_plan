@@ -40,3 +40,8 @@ Dynamic Chromatin Accessibility Loci during Cell Fate Transitions](https://www.c
   2. Second pass reading [Can we accelerate medicinal chemistry by augmenting the chemist with Big Data and artificial intelligence?](https://www.sciencedirect.com/science/article/pii/S1359644617305780?via%3Dihub)
   3. First pass read [ontology-based prediction of cancer driver genes](https://www.nature.com/articles/s41598-019-53454-1)
   4. Second pass reading [Applications of machine learning in drug discovery and development](https://www.nature.com/articles/s41573-019-0024-5)
+  
+### Feb 2, 2020
+  1. Second pass read [Generating Focused Molecule Libraries for Drug Discovery with
+Recurrent Neural Networks](https://pubs.acs.org/doi/full/10.1021/acscentsci.7b00512)
+  2. 
