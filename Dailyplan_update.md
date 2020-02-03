@@ -51,6 +51,9 @@ Recurrent Neural Networks](https://pubs.acs.org/doi/full/10.1021/acscentsci.7b00
   6. Second pass read [De Novo Design of Bioactive Small Molecules by Artificial
 Intelligence](https://onlinelibrary.wiley.com/doi/full/10.1002/minf.201700153)
   
+  
+### Feb3, 2020
+   1. Second pass read [Deep learning enables rapid identification of potent DDR1 kinase inhibitors](https://www.nature.com/articles/s41587-019-0224-x)
 
 
 
