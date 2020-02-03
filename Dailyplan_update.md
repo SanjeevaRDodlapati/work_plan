@@ -47,6 +47,8 @@ Recurrent Neural Networks](https://pubs.acs.org/doi/full/10.1021/acscentsci.7b00
   2. First pass read [DeeplyTough: Learning Structural Comparison of Protein Binding Sites](https://www.biorxiv.org/content/10.1101/600304v1.full.pdf)
   3. First pass read [Population-based De Novo Molecule Generation, Using Grammatical Evolution](https://www.journal.csj.jp/doi/pdf/10.1246/cl.180665)
   4. Second pass read [GuacaMol: Benchmarking Models for de Novo Molecular Design](https://pubs.acs.org/doi/10.1021/acs.jcim.8b00839)
+  5. Second pass read [Molecular Generative Model Based on an Adversarially Regularized Autoencoder](https://arxiv.org/abs/1811.12823)
+  
 
 
 
