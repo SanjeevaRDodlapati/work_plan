@@ -55,7 +55,10 @@ Intelligence](https://onlinelibrary.wiley.com/doi/full/10.1002/minf.201700153)
 ### Feb3, 2020
    1. Second pass read [Deep learning enables rapid identification of potent DDR1 kinase inhibitors](https://www.nature.com/articles/s41587-019-0224-x)
 
+## Feb 4 to Feb 18th: India Trip to attend my brother's marriage
 
+### Feb19, 2020
+   1. First pass read [Validity of machine learning in biology and medicine increased through collaborations across fields of expertise](https://www.nature.com/articles/s42256-019-0139-8) 
 
 
 
