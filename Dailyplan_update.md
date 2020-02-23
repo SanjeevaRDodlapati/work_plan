@@ -60,6 +60,10 @@ Intelligence](https://onlinelibrary.wiley.com/doi/full/10.1002/minf.201700153)
 ### Feb19, 2020
    1. First pass read [Validity of machine learning in biology and medicine increased through collaborations across fields of expertise](https://www.nature.com/articles/s42256-019-0139-8) 
 
-
+### Feb21, 22 
+  1. HW for CS800 class
+  
+### FEb23
+  1. first pass read [Ten Simple Rules to becoming a principal investigator](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007448)
 
 
