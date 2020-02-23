@@ -65,5 +65,6 @@ Intelligence](https://onlinelibrary.wiley.com/doi/full/10.1002/minf.201700153)
   
 ### FEb23
   1. first pass read [Ten Simple Rules to becoming a principal investigator](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007448)
+  2. TA grading
 
 
