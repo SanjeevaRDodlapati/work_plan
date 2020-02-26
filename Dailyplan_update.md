@@ -73,3 +73,8 @@ Intelligence](https://onlinelibrary.wiley.com/doi/full/10.1002/minf.201700153)
   3. First pass read [NETWORK RANDOMIZATION:
 A SIMPLE TECHNIQUE FOR GENERALIZATION
 IN DEEP REINFORCEMENT LEARNING](https://arxiv.org/abs/1910.05396)
+
+### 26 Feb 2020
+  1. First pass read [Organic synthesis provides opportunities
+to transform drug discovery](https://www.nature.com/articles/s41557-018-0021-z%C2%A0#Abs1)
+2. First pass read [Learning to coninually learn](https://arxiv.org/pdf/2002.09571.pdf?)
