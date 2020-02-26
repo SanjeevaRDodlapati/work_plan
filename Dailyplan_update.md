@@ -70,3 +70,6 @@ Intelligence](https://onlinelibrary.wiley.com/doi/full/10.1002/minf.201700153)
 ### 25 Feb 2020
   1. First pass read [Chromosome Conformation Capture and Beyond](https://www.cell.com/molecular-cell/fulltext/S1097-2765(19)30951-7?rss=yes&utm_source=dlvr.it&utm_medium=twitter)
   2. First pass read [Batch Normalization Biases Deep Residual Networks Towards Shallow Paths](https://arxiv.org/abs/2002.10444)
+  3. First pass read [NETWORK RANDOMIZATION:
+A SIMPLE TECHNIQUE FOR GENERALIZATION
+IN DEEP REINFORCEMENT LEARNING](https://arxiv.org/abs/1910.05396)
