@@ -30,4 +30,4 @@
   
   _**Task 2**_: Make my code run with deepcpg_DNA module.
   
-  _**Task 3**_: 
+  _**Task 3**_: Collect gradients of CpG.Net into a file
