@@ -26,3 +26,6 @@
 + Group Meeting
 + First pass read [Assessing the impact of generative AI on medicinal chemistry](https://www.nature.com/articles/s41587-020-0418-2#article-info)
 + First pass read [Deep learning enables rapid identification of potent DDR1 kinase inhibitors](https://www.nature.com/articles/s41587-019-0224-x#article-info)
+
+### Feb 26, 2020
+  + Checked deepcpg code for class weights and other parameters
