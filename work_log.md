@@ -29,3 +29,8 @@
 
 ### Feb 26, 2020
   + Checked deepcpg code for class weights and other parameters
+  
+### 27 Feb 2020
+To DO:
+  1. Collect gradients for CpG.Net
+  2. Make changes and run deepcpg.DNA
