@@ -32,5 +32,4 @@
   
 ### 27 Feb 2020
 To DO:
-  1. Collect gradients for CpG.Net
-  2. Make changes and run deepcpg.DNA
+  1. wrote code for class weights (calculated batchwise)
