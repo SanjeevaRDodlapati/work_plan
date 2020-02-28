@@ -34,7 +34,9 @@
   
   ### status
  _**Task 1**_: need to run and check if there are any issues
+ 
  _**Task 2**_: need to initiate weights with glorot uniform initializer
+ 
  _**Task 3**_: Plotted gradiens flow for each layer - gradients are vanishing after 1 epoch
   
 ## 28 Feb 2020
