@@ -32,4 +32,4 @@
   
 ### 27 Feb 2020
 To DO:
-  1. wrote code for class weights (calculated batchwise)
+  1. wrote code for class weights (calculated batchwise instead of chromosome-wise)
