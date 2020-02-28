@@ -31,3 +31,11 @@
   _**Task 2**_: Make my code run with deepcpg_DNA module.
   
   _**Task 3**_: Collect gradients of CpG.Net into a file
+  
+  ### status
+  Task 1: need to run and check if there are any issues
+  Task 2: need to initiate weights with glorot uniform initializer
+  Task 3: Plotted gradiens flow for each layer - gradients are vanishing after 1 epoch
+  
+## 28 Feb 2020
+  
