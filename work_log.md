@@ -33,3 +33,4 @@
 ### 27 Feb 2020
 To DO:
   1. wrote code for class weights (calculated batchwise instead of chromosome-wise)
+  1. Plotted gradient flow for bothe CpG.Net and deepcpg_DNA models
