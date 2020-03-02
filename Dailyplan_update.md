@@ -1,4 +1,4 @@
-# Daily plan for the month of Jan 2020 
+# Daily Activity for the month of Jan 2020 
 
 ### Jan 26, 2020
   1. Watched RNA splicing lectures of Molecular Biology: Part 3 on edX.
@@ -78,3 +78,7 @@ IN DEEP REINFORCEMENT LEARNING](https://arxiv.org/abs/1910.05396)
   1. First pass read [Organic synthesis provides opportunities
 to transform drug discovery](https://www.nature.com/articles/s41557-018-0021-z%C2%A0#Abs1)
 2. First pass read [Learning to coninually learn](https://arxiv.org/pdf/2002.09571.pdf?)
+
+
+# Daily plan for the month of Mar 2020 
+  1. First pass read [Targeting macrophages: therapeutic approaches in cancer](https://www.nature.com/articles/nrd.2018.169.epdf?shared_access_token=Vu9pbxq_4FdlelBHPKJKwtRgN0jAjWel9jnR3ZoTv0Oxr6wyJc5rqgDCk0kf8Lx-Liqtx4HCT4l5E_VZ2JoHblYTzJvfMvcHLUxW43k-JfefmW1VN3fUs8Y_INs2LC0m)
