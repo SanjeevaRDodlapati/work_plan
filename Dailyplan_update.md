@@ -82,3 +82,6 @@ to transform drug discovery](https://www.nature.com/articles/s41557-018-0021-z%C
 
 # Daily plan for the month of Mar 2020 
   1. First pass read [Targeting macrophages: therapeutic approaches in cancer](https://www.nature.com/articles/nrd.2018.169.epdf?shared_access_token=Vu9pbxq_4FdlelBHPKJKwtRgN0jAjWel9jnR3ZoTv0Oxr6wyJc5rqgDCk0kf8Lx-Liqtx4HCT4l5E_VZ2JoHblYTzJvfMvcHLUxW43k-JfefmW1VN3fUs8Y_INs2LC0m)
+  2. Second pass reading [Learning Task Grouping and Overlap in Multi-Task Learning](https://arxiv.org/abs/1206.6417)
+  3. Second pass reading [ELLA: An Efficient Lifelong Learning Algorithm](http://proceedings.mlr.press/v28/ruvolo13.pdf
+  4. Second pass reading [Lifelong Machine Learning Systems: Beyond Learning Algorithms](https://www.aaai.org/ocs/index.php/SSS/SSS13/paper/view/5802/5977)
