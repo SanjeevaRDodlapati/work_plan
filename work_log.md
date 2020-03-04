@@ -34,3 +34,5 @@
 To DO:
   1. wrote code for class weights (calculated batchwise instead of chromosome-wise)
   1. Plotted gradient flow for bothe CpG.Net and deepcpg_DNA models
+### 4 Mar 2020
+  1. Ran cpgTrain_pytorch with CpG_Net_Reduced() model with Adam optimizer- loss reduced to around 0.25 and stabilized. 
