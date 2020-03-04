@@ -90,3 +90,4 @@ to transform drug discovery](https://www.nature.com/articles/s41557-018-0021-z%C
 ### 4 Mar 2020
   1. Second pass reading [ChromID identifies the protein interactome at
 chromatin marks](https://www.nature.com/articles/s41587-020-0434-2#article-info)
+  2 Second poss reading [Visualizing the genome in high resolution challenges our textbook understanding](https://www.nature.com/articles/s41592-020-0758-3#article-info)
