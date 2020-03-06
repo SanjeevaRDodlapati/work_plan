@@ -40,4 +40,4 @@ To DO:
   3. With ASGD optimizer also not working
   
 ### 5 Mar 2020
-  1. Leaky ReLU is also tested with reduced cpg_net. 
+  1. Leaky ReLU is also tested with reduced cpg_net. Results - /scratch/sdodl001/deepcpg/CpG_wgbs/scripts/err_log/eval_25521.out
