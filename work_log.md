@@ -38,3 +38,6 @@ To DO:
   1. Ran cpgTrain_pytorch with CpG_Net_Reduced() model with Adam optimizer- loss reduced from around 6 to around 0.25 and stabilized. 
   2. With SGD optimizer, loss is not at all reducing. Gradient flow plot shows almost 0 gradient flow.
   3. With ASGD optimizer also not working
+  
+### 5 Mar 2020
+  1. Leaky ReLU is also tested with reduced cpg_net. 
