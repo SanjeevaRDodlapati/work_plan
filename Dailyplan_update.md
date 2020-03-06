@@ -95,3 +95,6 @@ chromatin marks](https://www.nature.com/articles/s41587-020-0434-2#article-info)
   
 ### 5 Mar 2020
   1. Wrote summary of [A Suptervised Learning Approach To Entity Matching Between Scholarly Bit Datasets](https://dl.acm.org/doi/10.1145/3148011.3154470) as a part of HW6 for CS800 class
+  2. Ran CpG prediction experiments (refer to work_plan.md)
+### 6 Mar 2020
+  1. First pass read [Analysis of DNA methylation associates the cystine–glutamate antiporter SLC7A11 with risk of Parkinson’s disease](https://www.nature.com/articles/s41467-020-15065-7.pdf)
