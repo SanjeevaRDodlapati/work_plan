@@ -34,6 +34,10 @@
 To DO:
   1. wrote code for class weights (calculated batchwise instead of chromosome-wise)
   1. Plotted gradient flow for bothe CpG.Net and deepcpg_DNA models
+
+### 3 Mar 2020
+  1. Batch normalization on conv layers of  CpG.Net() model is not working. 
+
 ### 4 Mar 2020
   1. Ran cpgTrain_pytorch with CpG_Net_Reduced() model with Adam optimizer- loss reduced from around 6 to around 0.25 and stabilized. 
   2. With SGD optimizer, loss is not at all reducing. Gradient flow plot shows almost 0 gradient flow.
