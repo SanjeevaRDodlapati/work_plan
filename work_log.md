@@ -45,3 +45,5 @@
 ### 5 Mar 2020
   1. Leaky ReLU is also tested with reduced cpg_net.  - /scratch/sdodl001/deepcpg/CpG_wgbs/scripts/err_log/eval_25521.out
   Results - /scratch/sdodl001/deepcpg/CpG_wgbs/outputs/results/AdamW_lr0.0001_5Mar2020
+### 6 Mar 2020
+  1. Variable learning rate, CpG.Net() - /scratch/sdodl001/deepcpg/CpG_wgbs/outputs/results/AdamW_lr0.0001v_LReLU_6Mar2020
