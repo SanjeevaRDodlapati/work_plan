@@ -92,3 +92,6 @@ to transform drug discovery](https://www.nature.com/articles/s41557-018-0021-z%C
 chromatin marks](https://www.nature.com/articles/s41587-020-0434-2#article-info)
 
   2 Second poss reading [Visualizing the genome in high resolution challenges our textbook understanding](https://www.nature.com/articles/s41592-020-0758-3#article-info)
+  
+### 5 Mar 2020
+  1. Wrote summary of [A Suptervised Learning Approach To Entity Matching Between Scholarly Bit Datasets](https://dl.acm.org/doi/10.1145/3148011.3154470) as a part of HW6 for CS800 class
