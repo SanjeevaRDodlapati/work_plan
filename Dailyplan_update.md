@@ -104,3 +104,4 @@ chromatin marks](https://www.nature.com/articles/s41587-020-0434-2#article-info)
   3. Frist pass read [ToxiM: A Toxicity Prediction Tool for Small Molecules Developed Using Machine Learning and Chemoinformatics Approaches](https://www.frontiersin.org/articles/10.3389/fphar.2017.00880/full)
   4. First pass read [Better Informed Distance Geometry: Using What We Know To
 Improve Conformation Generation](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.5b00654)
+  5. First pass read [Molecule Attention Transformer](https://arxiv.org/pdf/2002.08264.pdf)
