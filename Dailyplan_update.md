@@ -102,3 +102,5 @@ chromatin marks](https://www.nature.com/articles/s41587-020-0434-2#article-info)
   1. First pass read [Neural networks-based variationally enhanced sampling](https://www.pnas.org/content/116/36/17641?utm_source=hootsuite&utm_medium=twitter&utm_term=&utm_content=0e3a92e9-e88e-485a-8063-f65566c2b585&utm_campaign=General)
   2. First pass read [Data-Driven Chemical Reaction Classification,Fingerprinting and Clustering usingAttention-Based Neural Networks](https://chemrxiv.org/articles/Data-Driven_Chemical_Reaction_Classification_with_Attention-Based_Neural_Networks/9897365)
   3. Frist pass read [ToxiM: A Toxicity Prediction Tool for Small Molecules Developed Using Machine Learning and Chemoinformatics Approaches](https://www.frontiersin.org/articles/10.3389/fphar.2017.00880/full)
+  4. First pass read [Better Informed Distance Geometry: Using What We Know To
+Improve Conformation Generation](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.5b00654)
