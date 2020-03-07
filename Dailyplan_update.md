@@ -100,3 +100,5 @@ chromatin marks](https://www.nature.com/articles/s41587-020-0434-2#article-info)
   1. First pass read [Analysis of DNA methylation associates the cystine–glutamate antiporter SLC7A11 with risk of Parkinson’s disease](https://www.nature.com/articles/s41467-020-15065-7.pdf)
 ### 7 Mar 2020
   1. First pass read [Neural networks-based variationally enhanced sampling](https://www.pnas.org/content/116/36/17641?utm_source=hootsuite&utm_medium=twitter&utm_term=&utm_content=0e3a92e9-e88e-485a-8063-f65566c2b585&utm_campaign=General)
+  2. First pass read [Data-Driven Chemical Reaction Classification,Fingerprinting and Clustering usingAttention-Based Neural Networks](https://chemrxiv.org/articles/Data-Driven_Chemical_Reaction_Classification_with_Attention-Based_Neural_Networks/9897365)
+  3. Frist pass read [ToxiM: A Toxicity Prediction Tool for Small Molecules Developed Using Machine Learning and Chemoinformatics Approaches](https://www.frontiersin.org/articles/10.3389/fphar.2017.00880/full)
