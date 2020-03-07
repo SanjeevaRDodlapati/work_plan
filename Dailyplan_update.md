@@ -98,3 +98,5 @@ chromatin marks](https://www.nature.com/articles/s41587-020-0434-2#article-info)
   2. Ran CpG prediction experiments (refer to work_log.md)
 ### 6 Mar 2020
   1. First pass read [Analysis of DNA methylation associates the cystine–glutamate antiporter SLC7A11 with risk of Parkinson’s disease](https://www.nature.com/articles/s41467-020-15065-7.pdf)
+### 7 Mar 2020
+  1. First pass read [Neural networks-based variationally enhanced sampling](https://www.pnas.org/content/116/36/17641?utm_source=hootsuite&utm_medium=twitter&utm_term=&utm_content=0e3a92e9-e88e-485a-8063-f65566c2b585&utm_campaign=General)
