@@ -105,3 +105,4 @@ chromatin marks](https://www.nature.com/articles/s41587-020-0434-2#article-info)
   4. First pass read [Better Informed Distance Geometry: Using What We Know To
 Improve Conformation Generation](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.5b00654)
   5. First pass read [Molecule Attention Transformer](https://arxiv.org/pdf/2002.08264.pdf)
+  6. First pass read [Torsion Angle Preferences in Druglike Chemical Space: A Comprehensive Guide](https://pubs.acs.org/doi/10.1021/jm3016816)
