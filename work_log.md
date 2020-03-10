@@ -55,4 +55,10 @@
   2. Variable learning rate, CpG.Net() - Output - /scratch/sdodl001/deepcpg/CpG_wgbs/scripts/err_log/eval_25529.out
   Results - /scratch/sdodl001/deepcpg/CpG_wgbs/outputs/results/AdamW_lr0.0001v_LReLU_6Mar2020
 
-  3. 
+### 9 Mar 2020
+  1. Submit jobs with CpG.Net_Red_LRelu(), 100 and 150 epochs
+  
+### 10 Mar 2020
+  #### ToDO:
+  1. Change the code for multiple cell data input
+  2. Write code for evaluation of CpG.Net()
