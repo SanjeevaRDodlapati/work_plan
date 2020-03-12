@@ -109,3 +109,5 @@ Improve Conformation Generation](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.5
 ### 8 Mar 2020
   1. first pass read [On Catastrophic Interference in Atari 2600 Games](https://arxiv.org/pdf/2002.12499.pdf)
   2. Read icml and ijcai papers for reveiw.
+### 11 Mar 2020
+  1. Discussed reviews of 3 papers in group meeting
