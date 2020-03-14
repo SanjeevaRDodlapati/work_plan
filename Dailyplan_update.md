@@ -113,3 +113,9 @@ Improve Conformation Generation](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.5
   1. Discussed reviews of 3 papers in group meeting
 ### 12 Mar 2020
   1. Read two papers for review
+  
+### 13 Mar 2020
+  1. Read two review papers of icml
+  2. Watched 2 lectures of linear algebra for deep learning by gilber strang
+  
+
