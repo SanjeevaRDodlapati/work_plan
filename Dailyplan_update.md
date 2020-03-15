@@ -117,5 +117,8 @@ Improve Conformation Generation](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.5
 ### 13 Mar 2020
   1. Read two review papers of icml
   2. Watched 2 lectures of linear algebra for deep learning by gilber strang
-  
+### 14 Mar 2020
+  1. Wrote two reviews of icjai papers. 
+  2. Second pass read [Multimodal Model-Agnostic Meta-Learning via Task-Aware Modulation](https://papers.nips.cc/paper/8296-multimodal-model-agnostic-meta-learning-via-task-aware-modulation)
+
 
