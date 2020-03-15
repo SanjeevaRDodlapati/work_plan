@@ -121,4 +121,6 @@ Improve Conformation Generation](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.5
   1. Wrote two reviews of icjai papers. 
   2. Second pass read [Multimodal Model-Agnostic Meta-Learning via Task-Aware Modulation](https://papers.nips.cc/paper/8296-multimodal-model-agnostic-meta-learning-via-task-aware-modulation)
 
-
+### 15 Mar 2020
+  1.Second pass read [Google’s Neural Machine Translation System: Bridging the Gap
+between Human and Machine Translation](https://papers.nips.cc/paper/8297-vilbert-pretraining-task-agnostic-visiolinguistic-representations-for-vision-and-language-tasks.pdf)
