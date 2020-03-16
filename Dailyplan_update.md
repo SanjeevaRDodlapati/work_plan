@@ -126,3 +126,5 @@ Improve Conformation Generation](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.5
 between Human and Machine Translation](https://papers.nips.cc/paper/8297-vilbert-pretraining-task-agnostic-visiolinguistic-representations-for-vision-and-language-tasks.pdf)
 ### 16 Mar 2020 
   1. First pass read [A Deep Learning Approach to Antibiotic Discovery](https://www.cell.com/cell/fulltext/S0092-8674(20)30102-1?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867420301021%3Fshowall%3Dtrue)
+  2. First pass read [Analyzing Learned Molecular Representations for Property Prediction](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.9b00237)
+  3. Watched 2 lectures of linear algebra for ML by gilbert stgrang
