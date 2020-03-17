@@ -128,3 +128,5 @@ between Human and Machine Translation](https://papers.nips.cc/paper/8297-vilbert
   1. First pass read [A Deep Learning Approach to Antibiotic Discovery](https://www.cell.com/cell/fulltext/S0092-8674(20)30102-1?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867420301021%3Fshowall%3Dtrue)
   2. First pass read [Analyzing Learned Molecular Representations for Property Prediction](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.9b00237)
   3. Watched 2 lectures of linear algebra for ML by gilbert stgrang
+  4. Read icml review paper
+  5. Read introduction of sun's thesis for CS800 class presentation
