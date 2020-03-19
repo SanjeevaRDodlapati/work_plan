@@ -130,3 +130,11 @@ between Human and Machine Translation](https://papers.nips.cc/paper/8297-vilbert
   3. Watched 2 lectures of linear algebra for ML by gilbert stgrang
   4. Read icml review paper
   5. Read introduction of sun's thesis for CS800 class presentation
+### 17 Mar 2020
+  1. Read icml review paper
+  2. watched math for ML lectures from imperial college of london.
+  
+### 18 Mar 2020
+  1. First pass read [optipharm: An evolutionary algorithm to compare shape similarity](https://www.nature.com/articles/s41598-018-37908-6#:~:text=)
+  2. Watched 2 lectures of Linear Algebra by gilbert strang
+  3. Read one icml review paper
