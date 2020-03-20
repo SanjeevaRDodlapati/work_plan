@@ -138,3 +138,8 @@ between Human and Machine Translation](https://papers.nips.cc/paper/8297-vilbert
   1. First pass read [optipharm: An evolutionary algorithm to compare shape similarity](https://www.nature.com/articles/s41598-018-37908-6#:~:text=)
   2. Watched 2 lectures of Linear Algebra by gilbert strang
   3. Read one icml review paper
+  
+### 19 Mar 2020
+  1. First pass read [Learning New Tricks From Old Dogs: Multi-Source Transfer Learning From Pre-Trained Networks](https://papers.nips.cc/paper/8596-transfusion-understanding-transfer-learning-for-medical-imaging.pdf)
+  2. Discussed icml paper reveiws with Dr. Sun
+  3. Wrote reviews for 2 icml papers
