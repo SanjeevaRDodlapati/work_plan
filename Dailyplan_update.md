@@ -147,4 +147,5 @@ between Human and Machine Translation](https://papers.nips.cc/paper/8297-vilbert
   1. first pass read [Synergistic Image and Feature Adaptation: Towards Cross-Modality Domain Adaptation for Medical Image Segmentation](https://arxiv.org/abs/1901.08211)
   2. First pass read [Protein secondary structure detection in intermediate-resolution cryo-EM maps using deep learning](https://www.nature.com/articles/s41592-019-0500-1)
   3. First pass read [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/abs/1505.04597)
+  4. watched reinforcement learning Udacity lecture 1
   
