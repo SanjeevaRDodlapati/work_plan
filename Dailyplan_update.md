@@ -148,4 +148,6 @@ between Human and Machine Translation](https://papers.nips.cc/paper/8297-vilbert
   2. First pass read [Protein secondary structure detection in intermediate-resolution cryo-EM maps using deep learning](https://www.nature.com/articles/s41592-019-0500-1)
   3. First pass read [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/abs/1505.04597)
   4. watched reinforcement learning Udacity lecture 1
+### 21 Mar 2020
+  1. First pass read [Unifying machine learning and quantum chemistry with a deep neural network for molecular wavefunctions](https://www.nature.com/articles/s41467-019-12875-2.pdf)
   
