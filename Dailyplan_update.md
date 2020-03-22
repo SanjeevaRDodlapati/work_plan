@@ -150,4 +150,4 @@ between Human and Machine Translation](https://papers.nips.cc/paper/8297-vilbert
   4. watched reinforcement learning Udacity lecture 1
 ### 21 Mar 2020
   1. First pass read [Unifying machine learning and quantum chemistry with a deep neural network for molecular wavefunctions](https://www.nature.com/articles/s41467-019-12875-2.pdf)
-  
+  2. Read computational chemistry book
