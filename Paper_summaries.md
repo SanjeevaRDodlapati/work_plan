@@ -69,23 +69,25 @@
    
    
    
+ ### 24 Mar 2020  
    
-   
-   
-   __Title:__
+   __Title:FCNs in the Wild: Pixel-level Adversarial and Constraint-based Adaptation__ (https://arxiv.org/abs/1612.02649)
 
 
-   __problem:__
+   __Intro/motivation:__
+   
+   
+   __Problem:__
 
 
-   __solution:__
+   __Solution:__
    
    
-   __method:__
+   __Evaluaton:__
    
    
-   __evaluaton:__
+   __Contributions:__
+  
+  
+   __Questions/comments__
    
-   
-   
-   __questions/comments__
