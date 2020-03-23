@@ -19,7 +19,7 @@
    
    TPN is trained by reducing multi-granular domain discrepancy at class-level and sample-level. Class level descrepancy is reduced by learning similar prototypes of each class in different domains. Sample-level discrepancy is learned by enforcing similar score distributions across prototypes of different domains. Each trining iteration proceeds by performing above two steps alternately. 
    
-   ![TPN](file:///Users/sanjeev/Desktop/TPN.png)
+   ![TPN](/Users/sanjeev/Desktop/TPN.png)
    
      
    __evaluaton:__ trained and evaluated 4 digits image datasets: MNIST, USPS, SVHN, and VisDA. 
