@@ -2,7 +2,7 @@
 ## Mar 2929
 ### 23 Mar 2020
 
-   __Title: Transferrable Prototypical Networks for Unsupervised Domain Adaptation__
+   __Title: Transferrable Prototypical Networks for Unsupervised Domain Adaptation__(https://arxiv.org/pdf/1904.11227.pdf)
 
    __intro/motivation:__ When source (training) and target (test) datasets have different distributions, machine learning (ML) models learned on source domain do not generalize well to the target domain. Such a problem is known as domain adaptation or transfer learning problem. 
    This issue can be addressed by unsupervised domain adaptiation by aligning source and target data dsitributions or build invariance across domains by minimizing domain shift. 
