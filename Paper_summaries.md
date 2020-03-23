@@ -1,5 +1,4 @@
-# Summary of Papers in The Year 2020
-## Mar 2929
+# Summary of Papers - Mar 2020
 ### 23 Mar 2020
 
    __Title: Transferrable Prototypical Networks for Unsupervised Domain Adaptation__ (https://arxiv.org/pdf/1904.11227.pdf)
