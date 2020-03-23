@@ -12,7 +12,9 @@
 
 
    __solution:__ Proposes transferable prototypical networks (TPN) to explore general-purpose and task-specific domain adaptation by assuming that there exist an embedding space in which samples of each class cluster around a single prototypical (centroid) representation. The classification is done by computing distance to prototype of each lass. 
+   
    Matching prototypes of each class in the embeddding space learnt from different domains is general-purpose domain adaptaton. When source and target data are well aligned in the embedding space, target data should be correctly classified by task-specific adaptation by adapting the score distributions of prototype pairs from different domains. 
+   
      TPN learns a non-linear mapping of the input examples into domain invariant embedding space. Psuedo labels are assingned unlabeled target data examples by comparing them to each of the prototypes learned from source data. Then, mimimizing the distance between the prototypes of source domain, target domain, and source plus target domain. Task-specific adaptation is achieved by utilizing a softmax over distances of each example to the prototype as the classifier.
      
    __evaluaton:__
