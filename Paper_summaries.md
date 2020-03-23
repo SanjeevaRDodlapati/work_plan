@@ -24,7 +24,7 @@
    
    
    __Glossary__
-   ~Maximum Mean Distrepancy~ (MMD): 
+   *Maximum Mean Distrepancy* (MMD): 
    
    
    
