@@ -45,29 +45,27 @@
    
    
    
+ ### 23 Mar 2020  
    
-   
-   
-   
-   
-   
-   
-   __Title:__
+   __Title:Synergistic Image and Feature Adaptation: Towards Cross-Modality Domain Adaptation for Medical Image Segmentation__ (https://arxiv.org/abs/1901.08211)
 
 
-   __problem:__
+   __Intro/motivation:__
+   
+   
+   __Problem:__
 
 
-   __solution:__
+   __Solution:__
    
    
-   __method:__
+   __Evaluaton:__
    
    
-   __evaluaton:__
+   __Contributions:__
   
   
-   __questions/comments__
+   __Questions/comments__
    
    
    
