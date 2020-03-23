@@ -151,3 +151,5 @@ between Human and Machine Translation](https://papers.nips.cc/paper/8297-vilbert
 ### 21 Mar 2020
   1. First pass read [Unifying machine learning and quantum chemistry with a deep neural network for molecular wavefunctions](https://www.nature.com/articles/s41467-019-12875-2.pdf)
   2. Read computational chemistry book
+### 23 Mar 2020
+  1. Second pass read [Transferrable Prototypical Networks for Unsupervised Domain Adaptation](https://arxiv.org/pdf/1904.11227.pdf)
