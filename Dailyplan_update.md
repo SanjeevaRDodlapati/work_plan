@@ -153,3 +153,4 @@ between Human and Machine Translation](https://papers.nips.cc/paper/8297-vilbert
   2. Read computational chemistry book
 ### 23 Mar 2020
   1. Second pass read [Transferrable Prototypical Networks for Unsupervised Domain Adaptation](https://arxiv.org/pdf/1904.11227.pdf)
+  2. Read chapters 2 & 3 of thesis hw for CS800
