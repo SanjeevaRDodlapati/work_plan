@@ -154,3 +154,6 @@ between Human and Machine Translation](https://papers.nips.cc/paper/8297-vilbert
 ### 23 Mar 2020
   1. Second pass read [Transferrable Prototypical Networks for Unsupervised Domain Adaptation](https://arxiv.org/pdf/1904.11227.pdf)
   2. Read chapters 2 & 3 of thesis hw for CS800
+### 24 Mar 2020
+  1. Read [Deep learning enables cross-modality super-resolution in fluorescence microscopy](https://www.nature.com/articles/s41592-018-0239-0)
+  2. 
