@@ -94,7 +94,7 @@
    
  ### Data:  24 Mar 2020
    
-   __Title: Deep learning enables cross-modality super-resolution in fluorescence microscopy (DOIhttps://doi.org/10.1038/s41592-018-0239-0)__
+   __Title: Deep learning enables cross-modality super-resolution in fluorescence microscopy(https://www.nature.com/articles/s41592-019-0500-1)__
 
 
    __Intro/motivation:__ High resolution microscopy images allow observe minute details and inner workings of various biological processes of a cell. However, resolution depends on several factors such as oiptical setups, fluorophores, mounting media, and post-processing computations. 
