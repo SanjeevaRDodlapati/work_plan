@@ -64,5 +64,5 @@
   2. Write code for evaluation of CpG.Net()
 ### 23 Mar 2020
   1. Variable learning rate on deepcpg_DNA_Module() - output - /scratch/sdodl001/deepcpg/CpG_wgbs/scripts/err_log/eval_29532.out
-  2. Ran CpG_Net_Red_LRelu() with combined data - /scratch/sdodl001/deepcpg/CpG_wgbs/scripts/err_log/eval_29586.out
-  3. Rand DNA_Module() with AdamW, combined data - /scratch/sdodl001/deepcpg/CpG_wgbs/scripts/err_log/eval_29589.out
+  2. Ran CpG_Net_Red_LRelu() with combined data - /scratch/sdodl001/deepcpg/CpG_wgbs/scripts/err_log/eval_29591.out
+  3. Rand DNA_Module() with AdamW, combined data - /scratch/sdodl001/deepcpg/CpG_wgbs/scripts/err_log/eval_29592.out
