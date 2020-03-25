@@ -148,6 +148,30 @@
    __Questions/comments__
 
 
+ ### Date: 25 Mar 2020  
+   
+   __Title: RNAcommender: genome-wide recommendation of RNA–protein interactions__ (https://academic.oup.com/bioinformatics/article/32/23/3627/2525632)
+
+
+   __Intro/motivation:__ 
+   RNA-protien interactions play vital role in RNA regulatory processes. 
+   
+   
+   __Problem:__ 
+   Need to develop methods to determine RNA-protien interations
+
+
+   __Solution:__ 
+   Presents RNAcommender - recommends unexplored RNA targets to RNA binding proteins. 
+   
+   
+   __Evaluaton:__
+   
+   
+   __Contributions:__
+  
+  
+   __Questions/comments__
 
 
 
@@ -158,7 +182,8 @@
 
 
 
- ### Data:  
+
+ ### Date:  
    
    __Title: __
 
