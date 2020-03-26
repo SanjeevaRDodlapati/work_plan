@@ -174,6 +174,29 @@
    __Questions/comments__
 
 
+ ### Date:  26 Mar 2020
+   
+   __Title: Limited correspondence in visual representation between the human brain and convolutional neural networks__ (https://www.biorxiv.org/content/10.1101/2020.03.12.989376v1)
+
+
+   __Intro/motivation:__
+   
+   
+   __Problem:__ 
+
+
+
+   __Solution:__
+ 
+   
+   
+   __Evaluaton:__
+   
+   
+   __Contributions:__
+  
+  
+   __Questions/comments__
 
 
 
