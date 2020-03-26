@@ -159,6 +159,7 @@ between Human and Machine Translation](https://papers.nips.cc/paper/8297-vilbert
   2. 
 ### 25 Mar 2020
   1. Read and wrote brief summary of [RNAcommender: genome-wide recommendation of RNA–protein interactions](https://academic.oup.com/bioinformatics/article/32/23/3627/2525632)
+  2. Ran experiments for CpG predition (work_log)
   
 ### 26 Mar 2020
   1. First pass read [Limited correspondence in visual representation between the human brain and convolutional neural networks](https://www.biorxiv.org/content/10.1101/2020.03.12.989376v1)
