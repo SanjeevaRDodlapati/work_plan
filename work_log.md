@@ -66,6 +66,7 @@
   1. Variable learning rate on deepcpg_DNA_Module() - output - /scratch/sdodl001/deepcpg/CpG_wgbs/scripts/err_log/eval_29532.out
 
   __NOTE:__ DNA_Module() gradients are not backpropogating. No improvement in loss (stable around 0.32 from the beginning).
+  __Note:__ Need to compare with deepcpg_DNA results on the same data (working on it)
 
 ### 25 Mar 2020
    1. Ran CpG_Net_Red_LRelu() with combined data - /scratch/sdodl001/deepcpg/CpG_wgbs/scripts/err_log/eval_29591.out, eval_29668.out
@@ -79,3 +80,6 @@
   #### ToDo: Remove chrom tracing code in data_generator() function.
   3. Submitted job on modified cpgTrain_pytorch.py file - /scratch/sdodl001/deepcpg/CpG_wgbs/scripts/err_log/eval_30056.out, ./eval_30064.out
   outputs - ./../outputs/results/Combined_Data_26Mar2020
+### 27 Mar 2020
+  1. wrote code for calculating distance between neighbour cpg
+  2. writing code for KNN (not done yet)
