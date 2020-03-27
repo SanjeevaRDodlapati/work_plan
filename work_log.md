@@ -73,7 +73,7 @@
    2. Ran DNA_Module() with AdamW, combined data - /scratch/sdodl001/deepcpg/CpG_wgbs/scripts/err_log/eval_29592.out
   
   3. Ran DNA_Module()_2L with AdamW, softmin, combined data -/scratch/sdodl001/deepcpg/CpG_wgbs/scripts/err_log/eval_29647.out, eval_29667.out
-  4. Transgered CpG data to wahab and renamed .bed files 
+  4. Transferred CpG data to wahab and renamed .bed files 
 ### 26 Mar 2020
   1. modified cpgTrain_pytorch.py to add code for cpg position and chrom# tracking.
   2. Also wrote code to collect outputs and write to a file.
