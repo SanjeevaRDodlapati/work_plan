@@ -77,5 +77,5 @@
   1. modified cpgTrain_pytorch.py to add code for cpg position and chrom# tracking.
   2. Also wrote code to collect outputs and write to a file.
   #### ToDo: Remove chrom tracing code in data_generator() function.
-  3. Submitted job on modified cpgTrain_pytorch.py file - /scratch/sdodl001/deepcpg/CpG_wgbs/scripts/err_log/eval_30056.out
+  3. Submitted job on modified cpgTrain_pytorch.py file - /scratch/sdodl001/deepcpg/CpG_wgbs/scripts/err_log/eval_30056.out, ./eval_30064.out
   outputs - ./../outputs/results/Combined_Data_26Mar2020
