@@ -73,3 +73,9 @@
   
   3. Ran DNA_Module()_2L with AdamW, softmin, combined data -/scratch/sdodl001/deepcpg/CpG_wgbs/scripts/err_log/eval_29647.out, eval_29667.out
   4. Transgered CpG data to wahab and renamed .bed files 
+### 26 Mar 2020
+  1. modified cpgTrain_pytorch.py to add code for cpg position and chrom# tracking.
+  2. Also wrote code to collect outputs and write to a file.
+  #### ToDo: Remove chrom tracing code in data_generator() function.
+  3. Submitted job on modified cpgTrain_pytorch.py file - /scratch/sdodl001/deepcpg/CpG_wgbs/scripts/err_log/eval_30056.out
+  outputs - ./../outputs/results/Combined_Data_26Mar2020
