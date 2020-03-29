@@ -163,3 +163,6 @@ between Human and Machine Translation](https://papers.nips.cc/paper/8297-vilbert
   
 ### 26 Mar 2020
   1. First pass read [Limited correspondence in visual representation between the human brain and convolutional neural networks](https://www.biorxiv.org/content/10.1101/2020.03.12.989376v1)
+
+### 28 Mar 2020
+  1. Read [Opportunities and obstacles for deep learning in biology and medicine](https://royalsocietypublishing.org/doi/10.1098/rsif.2017.0387)
