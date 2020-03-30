@@ -166,3 +166,8 @@ between Human and Machine Translation](https://papers.nips.cc/paper/8297-vilbert
 
 ### 28 Mar 2020
   1. Read [Opportunities and obstacles for deep learning in biology and medicine](https://royalsocietypublishing.org/doi/10.1098/rsif.2017.0387)
+### 29Mar2020
+  1. read [Continual learning of context-dependent processing in neural networks](https://www.nature.com/articles/s42256-019-0080-x)
+  2. read [Generative molecular design in low data regimes](https://www.nature.com/articles/s42256-020-0160-y)
+  3. Read [Unsupervised data to content transformation with histogram-matching cycle-consistent generative adversarial networks](https://www.nature.com/articles/s42256-019-0096-2)
+  
