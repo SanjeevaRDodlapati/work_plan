@@ -171,3 +171,6 @@ between Human and Machine Translation](https://papers.nips.cc/paper/8297-vilbert
   2. read [Generative molecular design in low data regimes](https://www.nature.com/articles/s42256-020-0160-y)
   3. Read [Unsupervised data to content transformation with histogram-matching cycle-consistent generative adversarial networks](https://www.nature.com/articles/s42256-019-0096-2)
   
+### 30 Mar 2020
+  1. Watched 5 [optimization lectures by stephen boyd](https://www.youtube.com/watch?v=-T9cloGG_80&list=PL3940DD956CDF0622&index=6)
+  2. 
