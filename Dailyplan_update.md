@@ -174,3 +174,6 @@ between Human and Machine Translation](https://papers.nips.cc/paper/8297-vilbert
 ### 30 Mar 2020
   1. Watched 5 [optimization lectures by stephen boyd](https://www.youtube.com/watch?v=-T9cloGG_80&list=PL3940DD956CDF0622&index=6)
   2. 
+### 31 Mar 2020
+  1. Second pass reading [Predicting drug–protein interaction using quasi-visual question answering system](https://www.nature.com/articles/s42256-020-0152-y)
+  2. 
