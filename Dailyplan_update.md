@@ -176,4 +176,4 @@ between Human and Machine Translation](https://papers.nips.cc/paper/8297-vilbert
   2. 
 ### 31 Mar 2020
   1. Second pass reading [Predicting drug–protein interaction using quasi-visual question answering system](https://www.nature.com/articles/s42256-020-0152-y)
-  2. 
+  2. First pass read [Stacked Attention Networks for Image Question Answering](https://arxiv.org/abs/1511.02274)
