@@ -182,3 +182,4 @@ between Human and Machine Translation](https://papers.nips.cc/paper/8297-vilbert
 ### 1 Apr 2020
   1. Read [A STRUCTURED SELF-ATTENTIVE SENTENCE EMBEDDING](https://arxiv.org/abs/1703.03130)
   2. Read [Molecular de-novo design through deep reinforcement learning](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-017-0235-x)
+  3. Second pass read [Assessing the impact of generative AI on medicinal chemistry](https://www.nature.com/articles/s41587-020-0418-2)
