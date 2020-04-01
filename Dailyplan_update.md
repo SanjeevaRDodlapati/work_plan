@@ -179,3 +179,6 @@ between Human and Machine Translation](https://papers.nips.cc/paper/8297-vilbert
   2. First pass read [Stacked Attention Networks for Image Question Answering](https://arxiv.org/abs/1511.02274)
   3. First pass read [Image Question Answering using Convolutional Neural Network with Dynamic Parameter Prediction](https://arxiv.org/abs/1511.05756)
   4. First pass read [VQA: Visual Question Answering](https://arxiv.org/abs/1505.00468)
+### 1 Apr 2020
+  1. Read [A STRUCTURED SELF-ATTENTIVE SENTENCE EMBEDDING](https://arxiv.org/abs/1703.03130)
+  2. Read [Molecular de-novo design through deep reinforcement learning](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-017-0235-x)
