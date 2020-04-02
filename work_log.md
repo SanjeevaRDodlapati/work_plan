@@ -94,5 +94,5 @@
   2. SGD_Softsign_do0.5 ./err_log/eval_31501.out
 ### 2 Apr 2020
   1. Adam_softsign_do0.5 ./err_log/eval_31506.out
-  2. Added L1&L2 regularizers __(custome code)__ to DNA module ./err_log/eval_31563.out ...*not working*
-  3. Added L2 regularizer __(custome code)__ to DNA module ./err_log/eval_31583.out ...*not working*
+  2. Added L1&L2 regularizers __(custome code)__ to DNA module ./err_log/eval_31563.out   ...*_not working_*
+  3. Added L2 regularizer __(custome code)__ to DNA module ./err_log/eval_31583.out   ..._*not working*_
