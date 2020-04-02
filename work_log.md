@@ -83,3 +83,14 @@
 ### 27 Mar 2020
   1. wrote code for calculating distance between neighbour cpg
   2. writing code for KNN (not done yet)
+### 30 Mar 2020
+  1. Changed code for data loading in DNA module.
+### 31 Mar 2020 
+  1. Implemented DNA module with AdamW, Adam, Sigmoid, Softsign, SGD, dropout
+  AdamW_LRelu_softsign ./err_log/eval_31408.out
+  Adam_ReLu_Sigmoid ./err_log/eval_31422.out
+### 1 Apr 2020
+  SGD_Softsign ./err_log/eval_31489.out
+  SGD_Softsign_do0.5 ./err_log/eval_31501.out
+### 2 Apr 2020
+  Adam_softsign_do0.5 ./err_log/eval_31506.out
