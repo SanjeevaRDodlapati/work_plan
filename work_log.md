@@ -102,4 +102,7 @@
   ./err_log/eval_31726.out
   
 ### 3 Apr 2020
-  1. Ran CpG_Net_LRelu() with knn on combined data - ./../outputs/results/Combined_data_softsign_knn_2Apr2020 -- ./err_log/eval_31734.out. __Failed after 2 epochs__
+  1. Ran CpG_Net_LRelu() with knn on combined data - ./../outputs/results/Combined_data_softsign_knn_2Apr2020 -- ./err_log/eval_31734.out __Failed after 2 epochs__
+  submitted again - ./err_log/eval_31736.out
+  2. deepcpg_dna on combined data - ./err_log/eval_31739.out. ./../outputs/results/3Apr2020_combined_data_dcpgDNA
+  3. submitted DNA mdule with combined data - ./err_log/eval_31743.out. - ./../outputs/results/3Apr2020_combined_data_DNA_softsign
