@@ -100,3 +100,6 @@
   5. Submitted DNA module with D7_CTB_S3 cell data to compare with deepcpg_DNA module results on the same data set train chroms - 4, 8, 18, 4, 11, 15, 5, 10, 17, 1, 13, 16, 19, 21, 12, 2 val chroms - 22, 6, 7, X test chrom - 9, 14, 20 ./err_log/eval_31714.out
   6. deepcpg_dna on D7_CTB_S3 cell data - outputs: ./../outputs/results/2Apr2020_D7_CTB_S3_dcpgDNA  - - 
   ./err_log/eval_31726.out
+  
+### 3 Apr 2020
+  1. Ran CpG_Net_LRelu() with knn on combined data - ./../outputs/results/Combined_data_softsign_knn_2Apr2020 -- 
