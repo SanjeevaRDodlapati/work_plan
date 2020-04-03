@@ -102,4 +102,4 @@
   ./err_log/eval_31726.out
   
 ### 3 Apr 2020
-  1. Ran CpG_Net_LRelu() with knn on combined data - ./../outputs/results/Combined_data_softsign_knn_2Apr2020 -- ./err_log/eval_31734.out
+  1. Ran CpG_Net_LRelu() with knn on combined data - ./../outputs/results/Combined_data_softsign_knn_2Apr2020 -- ./err_log/eval_31734.out. __Failed after 2 epochs__
