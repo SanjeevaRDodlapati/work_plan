@@ -97,3 +97,4 @@
   2. Added L1&L2 regularizers __(custome code)__ to DNA module ./err_log/eval_31563.out   ...*__not working__*
   3. Added L2 regularizer __(custome code)__ to DNA module ./err_log/eval_31583.out   ...__*not working*__
   4. Replacing custom L2 regulerizer with the pytorch default ./err_log/eval_31597.out
+  5. Submitted DNA module with D7_CTB_S3 cell data to compare with deepcpg_DNA module results on the same data set train chroms - 4, 8, 18, 4, 11, 15, 5, 10, 17, 1, 13, 16, 19, 21, 12, 2 val chroms - 22, 6, 7, X test chrom - 9, 14, 20 ./err_log/eval_31714.out
