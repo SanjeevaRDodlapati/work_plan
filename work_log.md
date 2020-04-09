@@ -109,3 +109,6 @@
   
   2. deepcpg_dna on combined data - ./err_log/eval_31739.out. ./../outputs/results/3Apr2020_combined_data_dcpgDNA
   3. submitted DNA mdule with combined data - ./err_log/eval_31743.out. - ./../outputs/results/3Apr2020_combined_data_DNA_softsign
+  
+  ### 9 Apr 2020
+   1. Ran CpG_Net_LRelu() with knn on D7_CTB_S13 data - ./err_log/eval_33050.out
