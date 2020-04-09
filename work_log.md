@@ -111,4 +111,6 @@
   3. submitted DNA mdule with combined data - ./err_log/eval_31743.out. - ./../outputs/results/3Apr2020_combined_data_DNA_softsign
   
   ### 9 Apr 2020
-   1. Ran CpG_Net_LRelu() with knn on D7_CTB_S13 data - ./err_log/eval_33050.out
+   1. Ran CpG_Net_LRelu() with knn on D7_CTB_S13 data with predicted labels- ./err_log/eval_33050.out
+   2. Ran CpG_Net_LRelu() with knn on D7_CTB_S13 data with true labels - ./err_log/eval_33060.out
+   3. Ran CpG_Net_LRelu() with knn on D7_CTB_S3 data with true labels- ./err_log/eval_33065.out
