@@ -118,3 +118,4 @@
    5. Ran CpG_Net_LRelu() with knn on D5_CTB_S2 data with true labels- ./err_log/eval_33127.out
    6. Ran CpG_Net_LRelu() with knn on combined data with Sigmoid (back from Softsign - ./err_log/eval_33152.out
    7. Ran CpG_Net_LRelu() with knn on combined data with Softsign & BCEWithLogitsLoss - ./err_log/eval_33153.out
+   8. Ran CpG_Net_LRelu() with knn on combined data with BCEWithLogitsLoss (__NO Simgoid or Softsign__) - ./err_log/eval_33154.out
