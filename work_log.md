@@ -114,3 +114,5 @@
    1. Ran CpG_Net_LRelu() with knn on D7_CTB_S13 data with predicted labels- ./err_log/eval_33050.out
    2. Ran CpG_Net_LRelu() with knn on D7_CTB_S13 data with true labels - ./err_log/eval_33060.out
    3. Ran CpG_Net_LRelu() with knn on D7_CTB_S3 data with true labels- ./err_log/eval_33065.out
+   4. Ran CpG_Net_LRelu() with knn on D7_STB_L4 data with true labels- ./err_log/eval_33126.out
+   5. Ran CpG_Net_LRelu() with knn on D5_CTB_S2 data with true labels- ./err_log/eval_33127.out
