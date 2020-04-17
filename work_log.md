@@ -121,3 +121,9 @@
    4. Ran CpG_Net_LRelu() with knn on combined data with Softsign & BCEWithLogitsLoss - ./err_log/eval_33153.out __Failed__
  ### 10 Apr 2020
    1. Ran CpG_Net_LRelu() with knn on combined data with BCEWithLogitsLoss (__NO Simgoid or Softsign__) - ./err_log/eval_33154.out __Failed__,- submitted agian ./err_log/eval_33225.out, ./err_log/eval_33277.out
+   
+ ### 15 Apr_2020
+  1. CpG net with sigmoid, lr 0.001 on D7_CTB_S3 ./err_log/eval_34857.out
+  1. CpG net with sigmoid, lr 0.001 on D7_CTB_S13 ./err_log/eval_34859.out
+  1. CpG net with sigmoid, lr 0.001 on D7_STB_L4 ./err_log/eval_34860.out
+  
