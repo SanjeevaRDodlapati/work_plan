@@ -127,3 +127,6 @@
   1. CpG net with sigmoid, lr 0.001 on D7_CTB_S13 ./err_log/eval_34859.out
   1. CpG net with sigmoid, lr 0.001 on D7_STB_L4 ./err_log/eval_34860.out
   
+### 24 Apr 2020
+  1. generated stats(knn, nbrs in 1000bp) for deepcpg paper data. Research/CpG_prediction/Data_Stats/GSE65364_Single_CpG
+  2. generated stats for wgbs_human data. Research/CpG_prediction/Data_Stats
