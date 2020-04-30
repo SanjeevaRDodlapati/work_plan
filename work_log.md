@@ -131,7 +131,9 @@
   1. generated stats(knn, nbrs in 1000bp) for deepcpg paper data. Research/CpG_prediction/Data_Stats/GSE65364_Single_CpG
   2. generated stats for wgbs_human data. Research/CpG_prediction/Data_Stats
   
-### 30 Apr 2020
+### 29 Apr 2020
   1. RoadMap_data_stats (knn_acc, auc) calculated. (job ids: 38955, 38960, 38961)
   2. Neighbor count for RoadMap data.(job id: 38799)
-  3. Data stats for GSE56879 bisulfite sequence. (job id: 38943)
+  3. Data stats for GSE56879 bisulfite sequence. (job id: 38943) only for two cells
+### 30 Apr 2020
+  1. Data stats for GSE56879 bisulfite sequence. (job id: 38971, 38972, 38974)
