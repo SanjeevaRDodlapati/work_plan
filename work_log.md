@@ -137,4 +137,4 @@
   3. Data stats for GSE56879 bisulfite sequence. (job id: 38943) only for two cells
 ### 30 Apr 2020
   1. Data stats for GSE56879 bisulfite sequence. (job id: 38971, 38972, 38974)
-  2. Neighbor count for GSE56879 data.(job id: 38799)
+  2. Neighbor count for GSE56879 data.(job id: 389122)
