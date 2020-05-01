@@ -136,5 +136,5 @@
   2. Neighbor count for RoadMap data.(job id: 38799)
   3. Data stats for GSE56879 bisulfite sequence. (job id: 38943) only for two cells
 ### 30 Apr 2020
-  1. Data stats for GSE56879 bisulfite sequence. (job id: 38971, 38972, 38974)
-  2. Neighbor count for GSE56879 data.(job id: 389122)
+  1. Data stats for GSE56879 bisulfite sequence. (job id: 38974, 39270, 39272)
+  2. Neighbor count for GSE56879 data.(job id: 39271)
