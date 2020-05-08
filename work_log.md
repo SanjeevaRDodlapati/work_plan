@@ -148,5 +148,10 @@
 ### 5 May 2020
   1. Worked on CS895: comp bioinfo class project presentation and report submission. 
 ### 6 May 2020
-  1. Wrote code for DNA seq window extraction .
+  1. Wrote code for DNA seq window extraction. (saved as target-neighbor paired data as hdf5 table)
+### 7 May 2020
+  1. Changed the code for creating binned data. (earlier code was wrong)
+### 8 May 2020
+  1. Wrote code for KNN accuracy plots. 
+ 
   
