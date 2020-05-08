@@ -138,3 +138,15 @@
 ### 30 Apr 2020
   1. Data stats for GSE56879 bisulfite sequence. (job id: 38974, 39270, 39272)
   2. Neighbor count for GSE56879 data.(job id: 39271)
+  
+### 2 May 2020
+  1. Wrote code for binning the data based on neighboring cpg dist.
+### 3 May 2020
+  1. Wrote code for KNN (k=1) accuracy on binned_data.
+### 4 May 2020
+  1. Worked on CS895: comp bioinfo class assignmemt and project ppt
+### 5 May 2020
+  1. Worked on CS895: comp bioinfo class project presentation and report submission. 
+### 6 May 2020
+  1. Wrote code for DNA seq window extraction .
+  
