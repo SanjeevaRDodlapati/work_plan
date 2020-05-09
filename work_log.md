@@ -152,6 +152,7 @@
 ### 7 May 2020
   1. Changed the code for creating binned data. (earlier code was wrong)
 ### 8 May 2020
-  1. Wrote code for KNN accuracy plots. 
+  1. Wrote code for KNN accuracy plots.
+  2. Submitted jobs on wahab for dna window extraction on all D3, D5, D7 wgbs_human datasets saved to processed folder. 
  
   
