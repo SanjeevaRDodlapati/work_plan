@@ -18,3 +18,47 @@ __Contributions:__
 
 
 __Comments/Questions:__
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### Title:[]()
+
+__Intro/Motivation:__
+
+
+__Problem:__
+
+
+__Solution:__
+
+
+__Evaluation:__
+
+
+__Contributions:__
+
+
+__Comments/Questions:__
